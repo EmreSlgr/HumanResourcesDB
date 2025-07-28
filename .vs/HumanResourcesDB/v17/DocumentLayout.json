@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|c:\\users\\emres\\source\\repos\\humanresourcesdb\\humanresourcesdb\\hrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\hrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\hrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\hrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\notificationsendform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\notificationsendform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\notificationsendform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\notificationsendform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\humanresourcesdb\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B718E12F-EDF2-4409-9E4A-D06B9FDDA030}|HumanResourcesDB\\HumanResourcesDB.csproj|solutionrelative:humanresourcesdb\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 151,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\HRForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\HRForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\HRForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HumanResourcesDB\\HRForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:44:33.645Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationSendForm.cs",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\NotificationSendForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\NotificationSendForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\NotificationSendForm.cs",
+              "RelativeToolTip": "HumanResourcesDB\\NotificationSendForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:06:57.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationSendForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\NotificationSendForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\NotificationSendForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\NotificationSendForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HumanResourcesDB\\NotificationSendForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:06:49.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaveRequestForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\LeaveRequestForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\LeaveRequestForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\LeaveRequestForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HumanResourcesDB\\LeaveRequestForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:33:27.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\Employee.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\Employee.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\Employee.cs",
+              "RelativeToolTip": "HumanResourcesDB\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:29:08.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HRForm.cs",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\HRForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\HRForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\HRForm.cs",
+              "RelativeToolTip": "HumanResourcesDB\\HRForm.cs",
+              "ViewState": "AgIAAI0CAAAAAAAAAAAmwLICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:11:53.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\LoginForm.cs",
+              "RelativeToolTip": "HumanResourcesDB\\LoginForm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:41:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HumanResourcesDB\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:41:41.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\AdminForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\AdminForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HumanResourcesDB\\AdminForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:27:43.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\Program.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\Program.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\Program.cs",
+              "RelativeToolTip": "HumanResourcesDB\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:16:44.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\App.config",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\App.config",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\App.config",
+              "RelativeToolTip": "HumanResourcesDB\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-30T20:05:42.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\AdminForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\AdminForm.cs",
+              "RelativeToolTip": "HumanResourcesDB\\AdminForm.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAcwO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:59:41.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\EmployeeForm.cs",
+              "RelativeToolTip": "HumanResourcesDB\\EmployeeForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAD4v24AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:32:57.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\EmployeeForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HumanResourcesDB\\EmployeeForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:32:53.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\EmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "HumanResourcesDB\\EmployeeDataAccess.cs",
+              "ToolTip": "C:\\Users\\emres\\source\\repos\\HumanResourcesDB\\HumanResourcesDB\\EmployeeDataAccess.cs",
+              "RelativeToolTip": "HumanResourcesDB\\EmployeeDataAccess.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAswMkBAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:02:36.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
