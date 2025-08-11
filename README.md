@@ -1,3 +1,19 @@
+# HumanResourcesDB
+
+HumanResourcesDB, insan kaynakları yönetimi için geliştirilmiş kapsamlı bir veritabanı projesidir. Çalışanlar, departmanlar, pozisyonlar, izinler, performans değerlendirmeleri, eğitimler, mesajlaşma ve bildirimler gibi insan kaynakları süreçlerini destekleyen tablolar ve ilişkiler içerir.
+
+---
+
+## 🚀 Başlangıç
+
+Aşağıdaki adımlarla projeyi veritabanınızda kurup kullanmaya başlayabilirsiniz.
+
+### Veritabanı Kurulumu
+
+1. SQL Server Management Studio veya benzeri bir araçla bağlantı kurun.  
+2. Aşağıdaki SQL kod bloğunu çalıştırarak `HumanResourcesDB` veritabanını ve tabloları oluşturun:
+
+```sql
 -- Veritabanı oluşturma
 IF DB_ID('HumanResourcesDB') IS NULL
 BEGIN
@@ -52,7 +68,6 @@ CREATE TABLE Employees (
     UserID INT NULL,
     CONSTRAINT FK_Employees_Departments FOREIGN KEY (DepartmentID) REFERENCES Departments(DepartmentID),
     CONSTRAINT FK_Employees_Positions FOREIGN KEY (PositionID) REFERENCES Positions(PositionID)
-    -- UserID foreign key eklenecek, ancak Users tablosu henüz oluşturulmadı (aşağıda oluşturuluyor)
 );
 GO
 
@@ -71,7 +86,6 @@ CREATE TABLE Users (
 );
 GO
 
--- Şimdi Employees tablosundaki UserID için foreign key ekliyoruz:
 ALTER TABLE Employees
 ADD CONSTRAINT FK_Employees_Users FOREIGN KEY (UserID) REFERENCES Users(UserID);
 GO
@@ -97,6 +111,14 @@ CREATE TABLE EmployeeDocuments (
     DocumentData VARBINARY(MAX) NOT NULL,
     UploadDate DATETIME NOT NULL,
     CONSTRAINT FK_EmployeeDocuments_Employees FOREIGN KEY (EmployeeID) REFERENCES Employees(EmployeeID)
+);
+GO
+
+-- LeaveTypes
+CREATE TABLE LeaveTypes (
+    LeaveTypeID INT NOT NULL PRIMARY KEY,
+    LeaveTypeName NVARCHAR(50) NOT NULL,
+    Description NVARCHAR(250) NULL
 );
 GO
 
@@ -162,14 +184,6 @@ CREATE TABLE Leaves (
     ApprovedBy INT NULL,
     CONSTRAINT FK_Leaves_Employees FOREIGN KEY (EmployeeID) REFERENCES Employees(EmployeeID),
     CONSTRAINT FK_Leaves_ApprovedBy FOREIGN KEY (ApprovedBy) REFERENCES Employees(EmployeeID)
-);
-GO
-
--- LeaveTypes
-CREATE TABLE LeaveTypes (
-    LeaveTypeID INT NOT NULL PRIMARY KEY,
-    LeaveTypeName NVARCHAR(50) NOT NULL,
-    Description NVARCHAR(250) NULL
 );
 GO
 
