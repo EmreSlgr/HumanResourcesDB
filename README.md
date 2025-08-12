@@ -5,17 +5,15 @@ HumanResourcesDB, insan kaynakları yönetimi için geliştirilmiş kapsamlı bi
 
 ---
 
-🛠️ Teknolojiler
-SQL Server
+🛠️ Teknolojiler  
+- SQL Server  
+- T-SQL  
+- İnsan Kaynakları Yönetimi  
 
-T-SQL
-
-İnsan Kaynakları Yönetimi
-
-📬 İletişim
-Emre Salgır
-E-posta: emre.salgir@gmail.com
-GitHub: https://github.com/EmreSlgr
+📬 İletişim  
+Emre Salgır  
+E-posta: emre.salgir@gmail.com  
+GitHub: https://github.com/EmreSlgr  
 
 ## 🚀 Başlangıç
 
@@ -38,8 +36,6 @@ GO
 USE HumanResourcesDB;
 GO
 
--- Buraya tüm tabloların CREATE TABLE komutlarını ekleyin
--- Örnek:
 CREATE TABLE Departments (
     DepartmentID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
     DepartmentName NVARCHAR(100) NOT NULL,
@@ -83,4 +79,65 @@ ALTER TABLE Employees
 ADD CONSTRAINT FK_Employees_Users FOREIGN KEY (UserID) REFERENCES Users(UserID);
 GO
 
--- Diğer tabloları da buraya ekleyebilirsiniz
+CREATE TABLE Leaves (
+    LeaveID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+    EmployeeID INT NOT NULL,
+    LeaveTypeID INT NOT NULL,
+    StartDate DATETIME NOT NULL,
+    EndDate DATETIME NOT NULL,
+    Reason NVARCHAR(500) NULL,
+    Status NVARCHAR(50) NULL,
+    CONSTRAINT FK_Leaves_Employees FOREIGN KEY (EmployeeID) REFERENCES Employees(EmployeeID)
+);
+GO
+
+CREATE TABLE LeaveTypes (
+    LeaveTypeID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+    LeaveTypeName NVARCHAR(50) NOT NULL,
+    Description NVARCHAR(250) NULL
+);
+GO
+
+CREATE TABLE EmployeeDocuments (
+    DocumentID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+    EmployeeID INT NOT NULL,
+    DocumentName NVARCHAR(200) NOT NULL,
+    DocumentPath NVARCHAR(500) NOT NULL,
+    UploadDate DATETIME NULL,
+    CONSTRAINT FK_EmployeeDocuments_Employees FOREIGN KEY (EmployeeID) REFERENCES Employees(EmployeeID)
+);
+GO
+
+CREATE TABLE Trainings (
+    TrainingID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+    EmployeeID INT NOT NULL,
+    TrainingName NVARCHAR(200) NOT NULL,
+    Description NVARCHAR(500) NULL,
+    StartDate DATETIME NULL,
+    EndDate DATETIME NULL,
+    Status NVARCHAR(50) NULL,
+    CONSTRAINT FK_Trainings_Employees FOREIGN KEY (EmployeeID) REFERENCES Employees(EmployeeID)
+);
+GO
+
+CREATE TABLE Messages (
+    MessageID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+    SenderID INT NOT NULL,
+    ReceiverID INT NOT NULL,
+    MessageText NVARCHAR(MAX) NOT NULL,
+    SentDate DATETIME NULL,
+    IsRead BIT NULL,
+    CONSTRAINT FK_Messages_Sender FOREIGN KEY (SenderID) REFERENCES Employees(EmployeeID),
+    CONSTRAINT FK_Messages_Receiver FOREIGN KEY (ReceiverID) REFERENCES Employees(EmployeeID)
+);
+GO
+
+CREATE TABLE Notifications (
+    NotificationID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+    EmployeeID INT NOT NULL,
+    NotificationText NVARCHAR(MAX) NOT NULL,
+    NotificationDate DATETIME NULL,
+    IsRead BIT NULL,
+    CONSTRAINT FK_Notifications_Employees FOREIGN KEY (EmployeeID) REFERENCES Employees(EmployeeID)
+);
+GO
